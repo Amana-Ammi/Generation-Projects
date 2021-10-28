@@ -8,6 +8,6 @@
 6. Be sure to test your HTML in the browser and you should be able to see the color change of your Hello World text X
 7. If the color hasn't changed you may not have linked it correctly... `<link href="" rel="stylesheet">` X
 8. If it still doesn't work make sure that the spelling of your link and the files it is referring to are accurate and that your `<h1>` is in the `<body>` and has an opening and closing tag. X
-9. Once you have successfully linked your HTML and CSS, add your changes, commit them, and then push them to your remote.
-10. Publish your site, Settings > Pages > select `main` from dropdown > Save
+9. Once you have successfully linked your HTML and CSS, add your changes, commit them, and then push them to your remote. X
+10. Publish your site, Settings > Pages > select `main` from dropdown > Save X
 10. Add a URL to your live page to this document: [Put link here](https://docs.google.com/spreadsheets/d/14BXBurpo8zQ0JyPJo3l5NULaRaaKK7OonhHusfEGGp4/edit?usp=sharing)
