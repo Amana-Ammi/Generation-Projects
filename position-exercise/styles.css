@@ -1,3 +1,13 @@
+* {
+    font-family: 'Fruktur', cursive;
+}
+
 h1 {
     color: cadetblue;
+}
+
+footer {
+    background-color: chocolate;
+    bottom: 0;
+    position: fixed;
 }
